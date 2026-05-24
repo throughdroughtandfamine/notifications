@@ -1,7 +1,4 @@
 {
-    "blacklisted": [
-        "respect",
-        "replace",
-        "HWID_3_REPLACE_ME"
-    ]
+    "blacklisted": ["hwid1", "hwid2"],
+    "blacklisted_ids": [123456789, 987654321]
 }
