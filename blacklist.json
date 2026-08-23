@@ -1,4 +1,4 @@
 {
-    "blacklisted": ["hwid1", "hwid2"],
+    "blacklisted": ["e8a66cd36ea6bfda99384cab6b8413cfe1eddcf28e921a216660d45d2d1566f6", "hwid2"],
     "blacklisted_ids": [123456789, 987654321]
 }
